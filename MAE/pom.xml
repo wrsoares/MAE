@@ -27,7 +27,7 @@
 		<postgresql.version>9.1-901.jdbc4</postgresql.version>
 
 		<!-- Spring Security -->
-		<spring.security.version>3.2.1.RELEASE</spring.security.version>
+		<spring.security.version>5.1.6.RELEASE</spring.security.version>
 
 		<!-- Logging -->
 		<slf4j-log4j12.version>1.7.6</slf4j-log4j12.version>
